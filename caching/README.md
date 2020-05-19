@@ -1,0 +1,1 @@
+可以在 output 当中配置 contenthash  占位符  当源代码不变化的时候  hash值也不会变化

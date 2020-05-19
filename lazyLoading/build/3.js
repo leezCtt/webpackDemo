@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{10:function(n,e,a){"use strict";a.r(e);var t=a(0),w=a.n(t);e.default=(()=>w.a.createElement("div",null,"异步组件"))}}]);

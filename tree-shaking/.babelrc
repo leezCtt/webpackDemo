@@ -1,0 +1,14 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                //当使用 @babel/polyfill  只创建使用过的
+                "useBuiltIns": "usage"
+            },
+        ],
+        [
+            "@babel/preset-react"
+        ]
+    ]
+}
